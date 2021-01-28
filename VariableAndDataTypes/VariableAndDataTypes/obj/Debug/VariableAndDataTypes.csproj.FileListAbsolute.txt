@@ -1,0 +1,7 @@
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\VariableAndDataTypes\VariableAndDataTypes\bin\Debug\VariableAndDataTypes.exe.config
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\VariableAndDataTypes\VariableAndDataTypes\bin\Debug\VariableAndDataTypes.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\VariableAndDataTypes\VariableAndDataTypes\bin\Debug\VariableAndDataTypes.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\VariableAndDataTypes\VariableAndDataTypes\obj\Debug\VariableAndDataTypes.csprojAssemblyReference.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\VariableAndDataTypes\VariableAndDataTypes\obj\Debug\VariableAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\VariableAndDataTypes\VariableAndDataTypes\obj\Debug\VariableAndDataTypes.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\VariableAndDataTypes\VariableAndDataTypes\obj\Debug\VariableAndDataTypes.pdb
