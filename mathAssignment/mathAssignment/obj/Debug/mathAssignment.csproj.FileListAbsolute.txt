@@ -1,0 +1,7 @@
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\mathAssignment\mathAssignment\bin\Debug\mathAssignment.exe.config
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\mathAssignment\mathAssignment\bin\Debug\mathAssignment.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\mathAssignment\mathAssignment\bin\Debug\mathAssignment.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\mathAssignment\mathAssignment\obj\Debug\mathAssignment.csprojAssemblyReference.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\mathAssignment\mathAssignment\obj\Debug\mathAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\mathAssignment\mathAssignment\obj\Debug\mathAssignment.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\mathAssignment\mathAssignment\obj\Debug\mathAssignment.pdb
