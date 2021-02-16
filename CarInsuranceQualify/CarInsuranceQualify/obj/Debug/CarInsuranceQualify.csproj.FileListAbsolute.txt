@@ -1,0 +1,7 @@
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\CarInsuranceQualify\CarInsuranceQualify\bin\Debug\CarInsuranceQualify.exe.config
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\CarInsuranceQualify\CarInsuranceQualify\bin\Debug\CarInsuranceQualify.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\CarInsuranceQualify\CarInsuranceQualify\bin\Debug\CarInsuranceQualify.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\CarInsuranceQualify\CarInsuranceQualify\obj\Debug\CarInsuranceQualify.csprojAssemblyReference.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\CarInsuranceQualify\CarInsuranceQualify\obj\Debug\CarInsuranceQualify.csproj.CoreCompileInputs.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\CarInsuranceQualify\CarInsuranceQualify\obj\Debug\CarInsuranceQualify.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\CarInsuranceQualify\CarInsuranceQualify\obj\Debug\CarInsuranceQualify.pdb
