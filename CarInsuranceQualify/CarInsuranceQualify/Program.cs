@@ -12,6 +12,11 @@ namespace CarInsuranceQualify
         {
             Console.WriteLine("What is your age?");
             int age = Convert.ToInt32(Console.ReadLine());
+            if (age < 15)
+            { 
+                Console.WriteLine("You are not old enough to qualify.");
+            }
+            Console.ReadLine();
             Console.WriteLine("Have you ever had a DUI? Please answer true or false.");
             bool dui = Convert.ToBoolean(Console.ReadLine());
             Console.WriteLine("How many speeding tickets do you have?");

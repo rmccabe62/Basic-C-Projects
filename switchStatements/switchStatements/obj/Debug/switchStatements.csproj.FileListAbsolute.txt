@@ -1,0 +1,7 @@
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\switchStatements\switchStatements\bin\Debug\switchStatements.exe.config
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\switchStatements\switchStatements\bin\Debug\switchStatements.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\switchStatements\switchStatements\bin\Debug\switchStatements.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\switchStatements\switchStatements\obj\Debug\switchStatements.csprojAssemblyReference.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\switchStatements\switchStatements\obj\Debug\switchStatements.csproj.CoreCompileInputs.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\switchStatements\switchStatements\obj\Debug\switchStatements.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\switchStatements\switchStatements\obj\Debug\switchStatements.pdb
