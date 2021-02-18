@@ -1,0 +1,6 @@
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MultipleStrings\MultipleStrings\bin\Debug\MultipleStrings.exe.config
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MultipleStrings\MultipleStrings\bin\Debug\MultipleStrings.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MultipleStrings\MultipleStrings\bin\Debug\MultipleStrings.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MultipleStrings\MultipleStrings\obj\Debug\MultipleStrings.csproj.CoreCompileInputs.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MultipleStrings\MultipleStrings\obj\Debug\MultipleStrings.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MultipleStrings\MultipleStrings\obj\Debug\MultipleStrings.pdb
