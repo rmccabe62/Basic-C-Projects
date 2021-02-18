@@ -8,11 +8,19 @@ namespace ShippingQuote
 {
     class Program
     {
+        
+        
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Package Exoress. Please follow the intructions below.");
             Console.WriteLine("Please enter the package weight:");
             int weight = Convert.ToInt32(Console.ReadLine());
+            if (weight > 50)
+            {
+                Console.WriteLine("Package too heavy to be shipped via Package Express");
+            }
+            else
+            { 
             Console.WriteLine("Please enter the package width:");
             int width = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Please enter the package height:");
@@ -20,14 +28,19 @@ namespace ShippingQuote
             Console.WriteLine("Please enter the package length");
             int length = Convert.ToInt32(Console.ReadLine());
 
-            if ((width + height + length) > 50)
-            {
-                Console.WriteLine("Package too big to be shipped via Package Express");
-            }
-            decimal quote = ((height * width * length) * weight) / 100;
+                if ((width + height + length) > 50)
+                {
+                    Console.WriteLine("Package too big to be shipped via Package Express");
+                }
+                else
+                {
+                    decimal quote = ((height * width * length) * weight) / 100;
 
-            Console.WriteLine("Your estimated total for shipping this package is: $ " + quote);
-            
+                    Console.WriteLine("Your estimated total for shipping this package is: $ " + quote);
+
+                }
+
+            }
             
             Console.ReadLine();
 
