@@ -1,0 +1,7 @@
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe.config
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csprojAssemblyReference.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.pdb
