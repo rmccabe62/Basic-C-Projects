@@ -1,0 +1,7 @@
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\StringArraysLoops\StringArraysLoops\bin\Debug\StringArraysLoops.exe.config
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\StringArraysLoops\StringArraysLoops\bin\Debug\StringArraysLoops.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\StringArraysLoops\StringArraysLoops\bin\Debug\StringArraysLoops.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\StringArraysLoops\StringArraysLoops\obj\Debug\StringArraysLoops.csprojAssemblyReference.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\StringArraysLoops\StringArraysLoops\obj\Debug\StringArraysLoops.csproj.CoreCompileInputs.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\StringArraysLoops\StringArraysLoops\obj\Debug\StringArraysLoops.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\StringArraysLoops\StringArraysLoops\obj\Debug\StringArraysLoops.pdb
