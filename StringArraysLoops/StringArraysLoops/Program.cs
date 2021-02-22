@@ -44,14 +44,36 @@ namespace StringArraysLoops
                 if (nameChoice != name)
                 {
                     Console.WriteLine(nameChoice + "does not match the value of an element in the list");
+                    break;
                 }
                 else
                 {
                     Console.WriteLine(name);
+                    break;
                 }
-            } 
+                Console.ReadLine();
+            }
 
+            List<string> fruits = new List<string>() { "apple", "pear", "blueberry", "banana", "plum", "blueberry" };
+
+            Console.WriteLine("Please enter the name of your favorite fruit:");
+            string fruitName = Console.ReadLine();
+            foreach (string fruit in fruits)
+            {
+                if (fruitName != fruit)
+                {
+                    Console.WriteLine("the fruit you picked isn't on the list. Please try again.");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine(fruit);
+                    break;
+                }
+                Console.ReadLine();
+            }
             Console.ReadLine();
+            
 
         }
     }
