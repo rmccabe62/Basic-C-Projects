@@ -36,45 +36,89 @@ namespace StringArraysLoops
             }
 
             List<string> names = new List<string>() { "Sue", "James", "Linda", "Brad", "Donna" };
-
-            Console.WriteLine("Please enter a name to search for in the list: ");
-            string nameChoice = Console.ReadLine();
-            foreach (string name in names)
+            bool guess = false;
+            while (guess == false)
             {
-                if (nameChoice != name)
+
+
+                Console.WriteLine("Please enter a name to search for in the list: ");
+
+                string nameChoice = Console.ReadLine();
+
+                for (int i = 0; i < names.Count; i++)
                 {
-                    Console.WriteLine(nameChoice + "does not match the value of an element in the list");
-                    break;
+                    if (nameChoice == names[i])
+                    {
+                        Console.WriteLine("That is correct! " + nameChoice + " is in the list at " + i);
+                        guess = true;
+                        break;
+
+                    }
+
+
                 }
-                else
+                if (guess == false)
                 {
-                    Console.WriteLine(name);
-                    break;
+                    Console.WriteLine("That is an incorrect guess.");
                 }
                 Console.ReadLine();
             }
+
 
             List<string> fruits = new List<string>() { "apple", "pear", "blueberry", "banana", "plum", "blueberry" };
-
-            Console.WriteLine("Please enter the name of your favorite fruit:");
-            string fruitName = Console.ReadLine();
-            foreach (string fruit in fruits)
+            bool guess2 = false;
+            while (guess2 == false)
             {
-                if (fruitName != fruit)
-                {
-                    Console.WriteLine("the fruit you picked isn't on the list. Please try again.");
-                    break;
-                }
-                else
-                {
-                    Console.WriteLine(fruit);
-                    break;
-                }
-                Console.ReadLine();
-            }
-            Console.ReadLine();
-            
 
+                Console.WriteLine("Please enter the name of your favorite fruit:");
+                string fruitName = Console.ReadLine();
+                for (int j = 0; j < fruits.Count; j++)
+                {
+                    if (fruitName == fruits[j])
+                    {
+
+                        Console.WriteLine("That is correct! " + fruitName + " is in the list at " + j);
+                        guess2 = true;
+
+                    }
+                }
+                if (guess2 == false)
+                {
+                     Console.WriteLine("the fruit you picked isn't on the list. Please try again.");
+                     
+                }
+
+                Console.ReadLine();
+                
+            
+            }
+
+            List<string> directions = new List<string>() { "start", "stop", "turn left", "turn right", "stop" };
+            List<string> directionsCopy = new List<string>();
+
+           
+
+            foreach (string direction in directions)
+            {
+
+                foreach (string directionCopy in directionsCopy)
+                {
+                    if (direction == directionCopy)
+                    {
+                        Console.WriteLine("This item has appeared before: " + direction);
+                    }
+                }
+            directionsCopy.Add("start");
+            directionsCopy.Add("stop");
+            directionsCopy.Add("turn left");
+            directionsCopy.Add("turn right");
+            directionsCopy.Add("stop");
+
+            }
+
+
+
+            Console.ReadLine();
         }
     }
 }
