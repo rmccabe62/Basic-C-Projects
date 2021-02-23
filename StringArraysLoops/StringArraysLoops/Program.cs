@@ -100,21 +100,28 @@ namespace StringArraysLoops
 
             foreach (string direction in directions)
             {
-
-                foreach (string directionCopy in directionsCopy)
+                if (directionsCopy.Contains(direction))
                 {
-                    if (direction == directionCopy)
-                    {
-                        Console.WriteLine("This item has appeared before: " + direction);
-                    }
+                    Console.WriteLine(direction + " has already been seen in the list.");
                 }
-            directionsCopy.Add("start");
-            directionsCopy.Add("stop");
-            directionsCopy.Add("turn left");
-            directionsCopy.Add("turn right");
-            directionsCopy.Add("stop");
+                else
+                {
+                    directionsCopy.Add(direction);
+                    Console.WriteLine(direction + " has not already been seen in the list.");
+                }
+
 
             }
+
+
+
+
+
+                
+
+               
+
+            
 
 
 
