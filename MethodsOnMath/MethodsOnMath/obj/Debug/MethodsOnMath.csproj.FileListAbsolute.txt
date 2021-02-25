@@ -1,0 +1,7 @@
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MethodsOnMath\MethodsOnMath\bin\Debug\MethodsOnMath.exe.config
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MethodsOnMath\MethodsOnMath\bin\Debug\MethodsOnMath.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MethodsOnMath\MethodsOnMath\bin\Debug\MethodsOnMath.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MethodsOnMath\MethodsOnMath\obj\Debug\MethodsOnMath.csprojAssemblyReference.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MethodsOnMath\MethodsOnMath\obj\Debug\MethodsOnMath.csproj.CoreCompileInputs.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MethodsOnMath\MethodsOnMath\obj\Debug\MethodsOnMath.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MethodsOnMath\MethodsOnMath\obj\Debug\MethodsOnMath.pdb
