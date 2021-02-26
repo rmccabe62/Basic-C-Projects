@@ -13,11 +13,20 @@ namespace MultipleMethodsMath
             int sum = num1 + 10;
             return sum;
         }
-        public int mathOperations(int num1, double num2)
+        public int mathOperations( decimal num2)
         {
-            double difference = num2 - 2;
-            int newNum = Convert.ToInt32(difference);
-            return newNum;
+            
+            int newNum = Convert.ToInt32(num2);
+            int difference = newNum - 3;
+            
+            return difference;
+        }
+        public int mathOperations(string year)
+        {
+            int birthYear = Convert.ToInt32(year);
+            
+            int age = 2021 - birthYear;
+            return age;
         }
     }
 }
