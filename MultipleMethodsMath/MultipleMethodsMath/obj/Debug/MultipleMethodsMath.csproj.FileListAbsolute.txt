@@ -1,0 +1,7 @@
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MultipleMethodsMath\MultipleMethodsMath\bin\Debug\MultipleMethodsMath.exe.config
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MultipleMethodsMath\MultipleMethodsMath\bin\Debug\MultipleMethodsMath.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MultipleMethodsMath\MultipleMethodsMath\bin\Debug\MultipleMethodsMath.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MultipleMethodsMath\MultipleMethodsMath\obj\Debug\MultipleMethodsMath.csprojAssemblyReference.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MultipleMethodsMath\MultipleMethodsMath\obj\Debug\MultipleMethodsMath.csproj.CoreCompileInputs.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MultipleMethodsMath\MultipleMethodsMath\obj\Debug\MultipleMethodsMath.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\MultipleMethodsMath\MultipleMethodsMath\obj\Debug\MultipleMethodsMath.pdb
