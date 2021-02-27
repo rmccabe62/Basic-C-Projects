@@ -1,0 +1,7 @@
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TwoNumbersMath\TwoNumbersMath\bin\Debug\TwoNumbersMath.exe.config
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TwoNumbersMath\TwoNumbersMath\bin\Debug\TwoNumbersMath.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TwoNumbersMath\TwoNumbersMath\bin\Debug\TwoNumbersMath.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TwoNumbersMath\TwoNumbersMath\obj\Debug\TwoNumbersMath.csprojAssemblyReference.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TwoNumbersMath\TwoNumbersMath\obj\Debug\TwoNumbersMath.csproj.CoreCompileInputs.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TwoNumbersMath\TwoNumbersMath\obj\Debug\TwoNumbersMath.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TwoNumbersMath\TwoNumbersMath\obj\Debug\TwoNumbersMath.pdb
