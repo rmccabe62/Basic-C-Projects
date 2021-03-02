@@ -1,0 +1,7 @@
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\EmployeeName\EmployeeName\bin\Debug\EmployeeName.exe.config
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\EmployeeName\EmployeeName\bin\Debug\EmployeeName.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\EmployeeName\EmployeeName\bin\Debug\EmployeeName.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\EmployeeName\EmployeeName\obj\Debug\EmployeeName.csprojAssemblyReference.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\EmployeeName\EmployeeName\obj\Debug\EmployeeName.csproj.CoreCompileInputs.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\EmployeeName\EmployeeName\obj\Debug\EmployeeName.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\EmployeeName\EmployeeName\obj\Debug\EmployeeName.pdb
