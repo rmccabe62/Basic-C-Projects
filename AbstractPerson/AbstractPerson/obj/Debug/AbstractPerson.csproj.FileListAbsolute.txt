@@ -1,0 +1,7 @@
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\AbstractPerson\AbstractPerson\bin\Debug\AbstractPerson.exe.config
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\AbstractPerson\AbstractPerson\bin\Debug\AbstractPerson.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\AbstractPerson\AbstractPerson\bin\Debug\AbstractPerson.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\AbstractPerson\AbstractPerson\obj\Debug\AbstractPerson.csprojAssemblyReference.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\AbstractPerson\AbstractPerson\obj\Debug\AbstractPerson.csproj.CoreCompileInputs.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\AbstractPerson\AbstractPerson\obj\Debug\AbstractPerson.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\AbstractPerson\AbstractPerson\obj\Debug\AbstractPerson.pdb
