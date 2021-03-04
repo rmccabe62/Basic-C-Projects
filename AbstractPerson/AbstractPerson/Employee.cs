@@ -14,10 +14,11 @@ namespace AbstractPerson
         }
         public void Quit(Person employee)
         {
-            bool answer = Convert.ToBoolean(Console.ReadLine());
+            
             Console.WriteLine("Do you want to quit? Please answer true or false. ");
-            Console.WriteLine(answer);
-            Console.ReadLine();
+            bool answer = Convert.ToBoolean(Console.ReadLine());
+            Console.WriteLine("You chose: " + answer);
+           
         }
         
         

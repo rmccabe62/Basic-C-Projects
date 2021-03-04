@@ -10,10 +10,13 @@ namespace AbstractPerson
     {
         static void Main(string[] args)
         {
+           
             Employee employee = new Employee();
             employee.firstName = "Sample";
             employee.lastName = "Student";
             employee.SayName();
+            IQuittable quittable = new Employee();
+            quittable.Quit(employee);
             Console.ReadLine();
         }
     }
