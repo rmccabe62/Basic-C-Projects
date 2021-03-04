@@ -16,9 +16,9 @@ namespace TwentyOne
 
         public virtual void ListPLayers()
         {
-            foreach (string player in Players)
+            foreach (Player player in Players)
             {
-                Console.WriteLine(player);
+                Console.WriteLine(player.Name);
             }
         }
 
