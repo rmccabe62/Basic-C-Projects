@@ -10,7 +10,7 @@ namespace AbstractPerson
     {
          
 
-        public List<T> Things { get; set; }
+        public List<T> Things { get; set; } //set the generic property for the method
         public override void SayName()
         {
             Console.WriteLine("Name: " + firstName + " " + lastName);
