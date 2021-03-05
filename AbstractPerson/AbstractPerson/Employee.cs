@@ -6,14 +6,16 @@ using System.Threading.Tasks;
 
 namespace AbstractPerson
 {
-    public class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable
     {
-        public int id { get; set; }
+        public List<string> Things{ get; set; } 
+
+        public List<T> id { get; set; }
         public override void SayName()
         {
             Console.WriteLine("Name: " + firstName + " " + lastName);
         }
-        public void Quit(Person employee) //crete a method to allow the user to quit the program
+        public void Quit(Person employee) //create a method to allow the user to quit the program
         {
             
             Console.WriteLine("Do you want to quit? Please answer true or false. ");

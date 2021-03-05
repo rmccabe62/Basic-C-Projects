@@ -10,6 +10,7 @@ namespace AbstractPerson
     {
         static void Main(string[] args)
         {
+            List<Things>
            //Create a new object and display the result of a comparision to the screen
             Employee employee = new Employee();
             employee.id =231;
