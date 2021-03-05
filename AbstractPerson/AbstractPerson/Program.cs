@@ -10,14 +10,15 @@ namespace AbstractPerson
     {
         static void Main(string[] args)
         {
-           
+           //Create a new object and display the result of a comparision to the screen
             Employee employee = new Employee();
-            employee.firstName = "Sample";
-            employee.lastName = "Student";
-            employee.SayName();
-            IQuittable quittable = new Employee();
-            quittable.Quit(employee);
+            employee.id =231;
+            Employee employee2 = new Employee();
+            employee2.id =231;
+            Console.WriteLine(employee == employee2);
+            Console.WriteLine(employee != employee2);
             Console.ReadLine();
+
         }
     }
 }
