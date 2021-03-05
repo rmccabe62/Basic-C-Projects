@@ -20,6 +20,10 @@ namespace AbstractPerson
             Console.WriteLine("You chose: " + answer);
            
         }
+        public static bool operator == (Employee firstName, Employee lastName)
+        {
+            return Equals(firstName, lastName);
+        }
         
         
     }
