@@ -1,0 +1,6 @@
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\StructNum\StructNum\bin\Debug\StructNum.exe.config
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\StructNum\StructNum\bin\Debug\StructNum.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\StructNum\StructNum\bin\Debug\StructNum.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\StructNum\StructNum\obj\Debug\StructNum.csproj.CoreCompileInputs.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\StructNum\StructNum\obj\Debug\StructNum.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\StructNum\StructNum\obj\Debug\StructNum.pdb
