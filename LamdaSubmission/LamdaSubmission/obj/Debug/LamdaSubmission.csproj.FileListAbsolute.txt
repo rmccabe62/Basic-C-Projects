@@ -1,0 +1,7 @@
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\LamdaSubmission\LamdaSubmission\bin\Debug\LamdaSubmission.exe.config
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\LamdaSubmission\LamdaSubmission\bin\Debug\LamdaSubmission.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\LamdaSubmission\LamdaSubmission\bin\Debug\LamdaSubmission.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\LamdaSubmission\LamdaSubmission\obj\Debug\LamdaSubmission.csproj.CoreCompileInputs.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\LamdaSubmission\LamdaSubmission\obj\Debug\LamdaSubmission.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\LamdaSubmission\LamdaSubmission\obj\Debug\LamdaSubmission.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\LamdaSubmission\LamdaSubmission\obj\Debug\LamdaSubmission.csprojAssemblyReference.cache
