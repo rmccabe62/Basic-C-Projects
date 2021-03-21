@@ -1,0 +1,7 @@
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\ConstructApp\ConstructApp\bin\Debug\ConstructApp.exe.config
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\ConstructApp\ConstructApp\bin\Debug\ConstructApp.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\ConstructApp\ConstructApp\bin\Debug\ConstructApp.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\ConstructApp\ConstructApp\obj\Debug\ConstructApp.csprojAssemblyReference.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\ConstructApp\ConstructApp\obj\Debug\ConstructApp.csproj.CoreCompileInputs.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\ConstructApp\ConstructApp\obj\Debug\ConstructApp.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\ConstructApp\ConstructApp\obj\Debug\ConstructApp.pdb
