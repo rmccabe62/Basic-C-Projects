@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Casino
 {
-    class FraudException : Exception
+    public class FraudException : Exception
     {
         public FraudException()
             : base() { }

@@ -1,0 +1,7 @@
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TryCatchExcept\TryCatchExcept\bin\Debug\TryCatchExcept.exe.config
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TryCatchExcept\TryCatchExcept\bin\Debug\TryCatchExcept.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TryCatchExcept\TryCatchExcept\bin\Debug\TryCatchExcept.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TryCatchExcept\TryCatchExcept\obj\Debug\TryCatchExcept.csprojAssemblyReference.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TryCatchExcept\TryCatchExcept\obj\Debug\TryCatchExcept.csproj.CoreCompileInputs.cache
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TryCatchExcept\TryCatchExcept\obj\Debug\TryCatchExcept.exe
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TryCatchExcept\TryCatchExcept\obj\Debug\TryCatchExcept.pdb
