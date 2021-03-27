@@ -3,3 +3,4 @@ C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TwentyOne\Cas
 C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TwentyOne\Casino\obj\Debug\Casino.dll
 C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TwentyOne\Casino\obj\Debug\Casino.pdb
+C:\Users\rmcca\OneDrive\Desktop\Basic_C#_Programs\Basic-C-Projects\TwentyOne\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
