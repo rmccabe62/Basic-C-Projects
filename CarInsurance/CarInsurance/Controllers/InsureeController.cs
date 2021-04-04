@@ -50,15 +50,35 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
-                decimal startRate = 50;
+                int monthTotal = 50;
                 
                 
                 var age = ((DateTime.Now.Year - insuree.DateOfBirth.Year));
                 if (age <= 18)
                 {
-                    decimal monthTotal = startRate + 100;
-                    return View(monthTotal);
-                } 
+                    monthTotal += +100;
+                    
+                }
+                else if (age > 18 && age < 26)
+                {
+                    monthTotal += +50;
+                }
+                else
+                {
+                    monthTotal += +25;
+                }
+                if (insuree.CarYear < 2000 || insuree.CarYear > 2015)
+                {
+                    monthTotal += + 25;
+                }
+                if (insuree.CarMake == "Porsche")
+                {
+                     monthTotal += +25;
+                }
+                
+                // sets the "Quote property of the insuree object to the decimal we calculated 
+                insuree.Quote = startRate;
+                // adds the insuree object to the database
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
