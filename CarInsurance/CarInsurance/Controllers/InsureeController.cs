@@ -46,38 +46,50 @@ namespace CarInsurance.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
+        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
         {
             if (ModelState.IsValid)
             {
-                int monthTotal = 50;
+                int quoteTotal = 50;
                 
                 
                 var age = ((DateTime.Now.Year - insuree.DateOfBirth.Year));
                 if (age <= 18)
                 {
-                    monthTotal += +100;
+                    quoteTotal += 100;
                     
                 }
                 else if (age > 18 && age < 26)
                 {
-                    monthTotal += +50;
+                    quoteTotal += 50;
                 }
                 else
                 {
-                    monthTotal += +25;
+                    quoteTotal += 25;
                 }
                 if (insuree.CarYear < 2000 || insuree.CarYear > 2015)
                 {
-                    monthTotal += + 25;
+                    quoteTotal += 25;
                 }
                 if (insuree.CarMake == "Porsche")
                 {
-                     monthTotal += +25;
+                    if (insuree.CarModel == "911 Carrera")
+                    {
+                        quoteTotal += 25;
+                    }
+                    quoteTotal += +25;
+                }
+                if (insuree.SpeedingTickets > 0)
+                {
+                    quoteTotal += 10;
+                }
+                if (insuree.DUI == true)
+                {
+                    quoteTotal += Convert.ToInt32(quoteTotal * .25);
                 }
                 
                 // sets the "Quote property of the insuree object to the decimal we calculated 
-                insuree.Quote = startRate;
+                insuree.Quote = quoteTotal;
                 // adds the insuree object to the database
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
