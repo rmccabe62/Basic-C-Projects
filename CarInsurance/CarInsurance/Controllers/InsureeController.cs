@@ -50,7 +50,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
-                int quoteTotal = 50;
+                decimal quoteTotal = 50;
                 
                 
                 var age = ((DateTime.Now.Year - insuree.DateOfBirth.Year));
@@ -85,7 +85,11 @@ namespace CarInsurance.Controllers
                 }
                 if (insuree.DUI == true)
                 {
-                    quoteTotal += Convert.ToInt32(quoteTotal * .25);
+                    quoteTotal += quoteTotal * .25m;
+                }
+                if (insuree.CoverageType == true)
+                {
+                    quoteTotal += quoteTotal * .50m;
                 }
                 
                 // sets the "Quote property of the insuree object to the decimal we calculated 
